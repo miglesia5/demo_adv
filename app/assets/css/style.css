@@ -32,7 +32,7 @@ body {
 }
 
 .player {
-    background: #4cab24; 
+    background-image: url(img/eric.png);
 }
 
 .lost .player {
