@@ -3,7 +3,7 @@
         this.pos = pos.plus(new Vector(0, -0.5));
 
         // player size
-        this.size = new Vector(1.5, 2.5);
+        this.size = new Vector(2.5, 3.5);
 
         // set initial speed to 0
         this.speed = new Vector(0, 0);
