@@ -27,7 +27,7 @@ body {
 }
 
 .coin {
-    background: url(img/coin.png);
+    background: rgb(255, 83, 83);
     border-radius: 100%;
 }
 
