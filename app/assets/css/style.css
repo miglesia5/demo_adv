@@ -27,14 +27,14 @@ body {
 }
 
 .coin {
-    background: rgb(241, 229, 5);
+    background: url(img/coin.png);
     border-radius: 100%;
 }
 
 .player {
     background-image: url(img/eric.png);
-    width: 50px;
-    height: 65px;
+    width: 90px;
+    height: 75px;
 }
 
 .lost .player {
